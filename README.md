@@ -18,3 +18,11 @@ git clone https://github.com/wallacemartinss/website_template.git
 cd website_template
 npm install
 npm run dev
+```
+
+```bash
+laravel new website_template --using=wallacemartinss/website_template
+cd website_template
+npm install
+npm run dev
+```

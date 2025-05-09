@@ -1,4 +1,5 @@
 {
+    "name": "@wallacemartinss/website_template",
     "private": true,
     "type": "module",
     "scripts": {
